@@ -1,0 +1,11 @@
+What is Front end. Examples
+https://colorlib.com/wp/animation-websites/
+PWA rozetka 
+app react native
+Front VS Back ? Fullstack
+
+// GIT 
+https://github.com/dmitriyklimchuk
+https://dmitriyklimchuk.github.io/fishHunter/
+https://dzone.com/articles/top-20-git-commands-with-examples
+https://www.datree.io/resources/git-commands
