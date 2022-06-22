@@ -9,3 +9,21 @@ https://github.com/dmitriyklimchuk
 https://dmitriyklimchuk.github.io/fishHunter/
 https://dzone.com/articles/top-20-git-commands-with-examples
 https://www.datree.io/resources/git-commands
+
+
+git init
+git add file_name
+git add . // all files
+git commit -message "your_message"
+git add remote .......
+git remove remote .....
+git push remote your_repo
+git push -force remote your_repo
+git push -f -l -m remote your_repo 
+git help
+git checkout file_name
+git reset hard
+git pull 
+git clone ....
+git fetch --all
+git branch your_branch_name // creating branch
