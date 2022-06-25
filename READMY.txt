@@ -27,3 +27,8 @@ git pull
 git clone ....
 git fetch --all
 git branch your_branch_name // creating branch
+
+git checkout  your_branch_name
+git checkout -b your_branch_name
+git merge --abort
+git pull --abort
